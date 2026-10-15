@@ -31,6 +31,8 @@ console.log(minJu);
 const wonHee = new IdolModel("원희", 2005);
 console.log(wonHee);
 
+console.log(hee.sayName());
+
 // ㄴ 한 번 정의한 클래스로 무한히 찍어낼 수 있음
 
 // 객체처럼 쓸 수 있다.
